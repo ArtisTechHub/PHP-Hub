@@ -4,7 +4,7 @@ A list of PHP libraries, resources and many amazing things.
 
 
 ## Table of Contents
-- [Awesome PHP](#awesome-php)
+- [PHP Hub](#php-hub)
     - [Dependency Management](#dependency-management)
     - [Dependency Management Extras](#dependency-management-extras)
     - [Frameworks](#frameworks)

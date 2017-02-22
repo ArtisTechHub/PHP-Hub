@@ -1,6 +1,6 @@
 # PHP Hub Resources
 
-A list of PHP libraries, resources and many amazing things.
+A list of PHP libraries, resources and many useful things for you to use in this path.
 
 
 ## Table of Contents

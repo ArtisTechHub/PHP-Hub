@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# PHPHub
-# Unity-Hub
-# Unity-Hub
-=======
+
 # PHP Hub Resources
 
 A list of PHP libraries, resources and many useful things for you to use in this path.
